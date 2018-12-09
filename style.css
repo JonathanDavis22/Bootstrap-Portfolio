@@ -31,8 +31,35 @@ footer {
     color: #4aaaa5;
  }
 
-.container {
+.conts {
    padding: 50px;
+}
+
+.card-img {
+    opacity: .7;
+    object-fit: cover;
+    width: 300px;
+    height: 250px;
+}
+
+.card-title {
+    font-size: 18pt;
+    margin-top: 25px;
+}
+
+.card {
+    text-align: center;
+    margin-bottom: 25px;
+    margin: 20px;
+}
+
+.card:hover {
+    opacity: .8;
+}
+
+.card-title:hover {
+    text-decoration-line: underline;
+    cursor: pointer;
 }
 
 #portCont {
