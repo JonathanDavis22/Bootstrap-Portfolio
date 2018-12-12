@@ -31,8 +31,18 @@ footer {
     color: #4aaaa5;
  }
 
+ .contLinks {
+     background-color: rgb(154, 154, 154);
+     text-align: center;
+     /* margin: 0 auto; */
+ }
+
 .conts {
    padding: 50px;
+}
+
+.links {
+    padding-bottom: 50px;
 }
 
 .card-img {
@@ -45,6 +55,16 @@ footer {
 .card-title {
     font-size: 18pt;
     margin-top: 25px;
+}
+
+.card-link {
+    font-size: 20pt;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.two {
+    margin-bottom: 15px;
 }
 
 .card {
@@ -84,7 +104,7 @@ footer {
      width: 100%;
  }
 
- .card-body {
+ .conForm {
      text-align: justify;
  }
 
